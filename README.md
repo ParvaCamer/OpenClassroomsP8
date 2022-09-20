@@ -1,6 +1,4 @@
-# OcrProjet8
-
-Projet 8 OpenClassrooms :
+#Projet 8 OpenClassrooms :
 
 Reprendre et améliorer un projet existant.
 
