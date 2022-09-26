@@ -10,3 +10,6 @@ Un projet effecuté avec OpenClassrooms. Je devais reprendre et améliorer un pr
 
 ### What is it about ?
 A project requested by my school. I had to rework and improve an existing project
+
+### Project's link : 
+- https://parvacamer.github.io/OcrProjet8/
