@@ -4,7 +4,7 @@
 Un projet effecuté avec OpenClassrooms. Je devais reprendre et améliorer un projet déjà existant
 
 ### Lien en ligne du projet :
-- https://parvacamer.github.io/OcrProjet8/
+- https://parvacamer.github.io/OpenClassroomsP8/
 
 ## English version
 
@@ -12,4 +12,4 @@ Un projet effecuté avec OpenClassrooms. Je devais reprendre et améliorer un pr
 A project requested by my school. I had to rework and improve an existing project
 
 ### Project's link : 
-- https://parvacamer.github.io/OcrProjet8/
+- https://parvacamer.github.io/OpenClassroomsP8/
