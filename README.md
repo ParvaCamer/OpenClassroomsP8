@@ -9,7 +9,7 @@ Un projet effecuté avec OpenClassrooms. Je devais reprendre et améliorer un pr
 ## English version
 
 ### What is it about ?
-A project requested by my bootcamp. I had to rework and improve an existing project
+A project requested by my bootcamp OpenClassrooms. I had to rework and improve an existing project
 
 ### Project's link : 
 - https://parvacamer.github.io/OpenClassroomsP8/
